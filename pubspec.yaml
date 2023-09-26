@@ -1,5 +1,5 @@
 name: payroll
-description: Payroll app to calculate salaries and payslip of employees and workers
+description: To calculate salaries and payslip of employees and workers
 
 publish_to: 'none'
 
